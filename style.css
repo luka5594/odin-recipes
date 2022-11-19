@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(194, 81, 15);
+    font-family: cursive;
+    text-align: center;
+}
+p {
+    color: blue; 
+}
+li{
+    font-style: oblique;
+} 
